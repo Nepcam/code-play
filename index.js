@@ -25,19 +25,18 @@ console.log('I am a null?', typeof types.n)
 
 // -----------------------------------------------------------------------------------
 
-let obj = {     //creates a variable, creating an object and connecting the two together
-    0: 'zero',
-    1: 'one',
-    2: 'two'
-}
+// let obj = {     //creates a variable, creating an object and connecting the two together
+//     0: 'zero',
+//     1: 'one',
+//     2: 'two'
+// }
 
-let arr = ['zero', 'one', 'two']
+// let arr = ['zero', 'one', 'two']
 
-obj[1] // calls 'one' in the obj
-arr[0] // calls zero' in the array
+// obj[1] // calls 'one' in the obj
+// arr[0] // calls zero' in the array
 
-/** when calling data in an object, the order doesn't matter because the key is named, but when calling data in an array the order does MATTER. When order matters the logic is to use an array */
-
+// /** when calling data in an object, the order doesn't matter because the key is named, but when calling data in an array the order does MATTER. When order matters the logic is to use an array */
 
 
 
